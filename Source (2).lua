@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/zcnxs-official/ZCNXS-s-Broken-Script/refs/heads/main/Source.lua"))()
